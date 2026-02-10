@@ -27,7 +27,7 @@
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26",
-    "engine.io": "3.5.0"
+    "engine.io": "4.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
